@@ -1,0 +1,24 @@
+{
+  "name": "vincentgrenn.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/VincentGrenn/vincentgrenn.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/VincentGrenn/vincentgrenn.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentGrenn/vincentgrenn.github.io.git"
+  },
+  "license": "MIT",
+  "author": "Vincent Grenn",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "react": "^19.2.8",
+    "typescript": "^7.0.2"
+  }
+}
