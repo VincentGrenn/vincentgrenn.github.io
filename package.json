@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "react": "^19.2.8",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
   }
 }
