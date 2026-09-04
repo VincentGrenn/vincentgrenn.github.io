@@ -1,0 +1,30 @@
+:root {
+    --main: "Poppins", Arial
+}
+
+body {
+    font-family: var(--main);
+    text-align: center;
+    background-color: beige;
+}
+
+#name {
+    color: blue
+}
+
+#pronouns {
+    color: orange
+}
+
+#art {
+    font-size: 2px;
+    color: burlywood;
+}
+
+#music {
+    color: red;
+}
+
+#nextsite {
+    color: green;
+}
